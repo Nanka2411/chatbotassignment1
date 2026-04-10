@@ -6,6 +6,7 @@ public static class UIHelper
         Console.ForegroundColor = ConsoleColor.Blue;
         
         Console.WriteLine(@"
+
 ╔══════════════════════════════════════════════════════════════════════╗
 ║                                                                      ║
 ║   ██████╗██╗   ██╗██████╗ ███████╗██████╗  ██████╗  █████╗ ██╗       ║
